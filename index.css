@@ -2,7 +2,7 @@ html, body {
     margin: 0;
     padding: 0;
     font-family: 'Rubik', sans-serif;
-    background-color: #EEF0F4;
+    background-color: #ECE7E4;
     user-select: none;
 }
 
@@ -32,7 +32,7 @@ input {
 
 button {
     color: #FDFDFD;
-    background-color: #AC485A;
+    background-color: #696869;
     border: 0;
     padding: 15px;
     border-radius: 8px;
